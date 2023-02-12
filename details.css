@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  background: mediumaquamarine;
+  width: 790px;
+  height: 666px;
+  padding: 30px;
+  border-radius: 70px;
+  font-size: 48px;
+  /* margin-bottom: 10px; */
+  margin-top: 26px;
+  font-family: math;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 600;
+  /* text-shadow: 30px; */
+  color: aliceblue;
+  font-family: math;
+  background: darkcyan;
+  border-radius: 72px;
+}
+tr {
+  font-size: 25px;
+}
+th {
+  text-align: start;
+  color: mediumblue;
+}
+td {
+  text-align: start;
+  color: black;
+}
+ 
+img {
+    vertical-align: middle;
+    border-style: none;
+    position: absolute;
+    margin-left: -150px;
+    margin-top: -13px;
+    border-radius: 20px;
+}
+.table td, .table th{
+    border: none;
+}
